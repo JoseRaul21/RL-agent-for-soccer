@@ -1,5 +1,5 @@
 # RL DDQN agent for soccer
-I have created this environment for the purpose of exploring different RL algorithms, but in the end made it to work only with DDQN on a semi-decent level.
+I have created this environment for the purpose of exploring different RL algorithms, but in the end made it to work only with DDQN on a semi-decent level while tweaking environment rewards a little bit.
 
 
 
